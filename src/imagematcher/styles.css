@@ -1,0 +1,25 @@
+.list-cell {
+    -fx-background-color: #ffffff;
+}
+
+.list-cell:filled:selected {
+    -fx-background-color: #2196f3;
+    -fx-text-fill: white;
+}
+
+.slider .thumb {
+    -fx-background-color: #2196f3;
+}
+
+.slider .track {
+    -fx-background-color: #f4f4f4;
+}
+
+.slider .track-background {
+    -fx-background-color: #f4f4f4;
+}
+
+.button:disabled {
+    -fx-background-color: gray;
+    -fx-text-fill: black;
+}
